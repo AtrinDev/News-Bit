@@ -1,4 +1,4 @@
-# Admin Panel
+# News Bit
 
 ## Table of contents
 
